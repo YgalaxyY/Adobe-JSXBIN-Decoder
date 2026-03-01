@@ -34,13 +34,6 @@
 
 ### Типы вкладов
 
-#### 🐛 Исправление багов
-
-1. Проверьте [существующие issues](https://github.com/yourusername/jsxbin-to-jsx-converter/issues)
-2. Создайте новый issue с описанием проблемы
-3. Fork и создайте branch для исправления
-4. Добавьте тесты для воспроизведения и проверки исправления
-
 #### ✨ Новые функции
 
 1. Обсудите идею в [Discussions](https://github.com/yourusername/jsxbin-to-jsx-converter/discussions)
@@ -309,18 +302,6 @@ public void Decode_CompleteFile_ReturnsValidJsx()
 - [ ] GUI интерфейс
 - [ ] Улучшенная обработка ошибок
 - [ ] Больше тестовых случаев
-
-### Как предложить идею
-
-1. Проверьте [существующие issues](https://github.com/yourusername/jsxbin-to-jsx-converter/issues)
-2. Создайте discussion для обсуждения
-3. Если идея одобрена — создайте issue
-
-## 📞 Связь
-
-- **GitHub Issues**: [Сообщить о проблеме](https://github.com/yourusername/jsxbin-to-jsx-converter/issues)
-- **GitHub Discussions**: [Вопросы и обсуждения](https://github.com/yourusername/jsxbin-to-jsx-converter/discussions)
-- **Email**: IMgalaxy.light@yandex.com
 
 ---
 

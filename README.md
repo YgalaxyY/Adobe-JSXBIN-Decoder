@@ -39,15 +39,15 @@ graph LR
     G --> H[JsBeautifier]
     H --> I[Readable JSX]
     
-    style A fill:#ff9999,color:#000000,stroke:#000000,stroke-width:2px
-    style I fill:#87ceeb,color:#000000,stroke:#000000,stroke-width:2px
-    style E fill:#ffcc99,color:#000000,stroke:#000000,stroke-width:2px
-    style B fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
-    style C fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
-    style D fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
-    style F fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
-    style G fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
-    style H fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
+    style A fill:#4a90e2,color:#ffffff,stroke:#2c5aa0,stroke-width:2px
+    style I fill:#5cb85c,color:#ffffff,stroke:#357a35,stroke-width:2px
+    style E fill:#f0ad4e,color:#000000,stroke:#d58512,stroke-width:2px
+    style B fill:#5bc0de,color:#000000,stroke:#31b0d5,stroke-width:2px
+    style C fill:#5bc0de,color:#000000,stroke:#31b0d5,stroke-width:2px
+    style D fill:#5bc0de,color:#000000,stroke:#31b0d5,stroke-width:2px
+    style F fill:#5bc0de,color:#000000,stroke:#31b0d5,stroke-width:2px
+    style G fill:#5bc0de,color:#000000,stroke:#31b0d5,stroke-width:2px
+    style H fill:#5bc0de,color:#000000,stroke:#31b0d5,stroke-width:2px
 ```
 
 ### Процесс декодирования

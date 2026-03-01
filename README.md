@@ -292,11 +292,6 @@ StatementList
 - Создайте issue с примером файла
 - Временно можно использовать UnknownNode2 как заглушку
 
-## 📞 Контакты
-
-- **GitHub Issues**: [Сообщить о проблеме](https://github.com/ygalaxyy/jsxbin-to-jsx-converter/issues)
-- **GitHub Discussions**: [Обсуждения](https://github.com/ygalaxyy/jsxbin-to-jsx-converter/discussions)
-
 ---
 
 **⭐ Если проект полезен — поставьте звезду!**

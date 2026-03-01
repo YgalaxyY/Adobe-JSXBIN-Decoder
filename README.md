@@ -40,14 +40,14 @@ graph LR
     H --> I[Readable JSX]
     
     style A fill:#ff9999,color:#000000,stroke:#000000,stroke-width:2px
-    style I fill:#99ff99,color:#000000,stroke:#000000,stroke-width:2px
+    style I fill:#87ceeb,color:#000000,stroke:#000000,stroke-width:2px
     style E fill:#ffcc99,color:#000000,stroke:#000000,stroke-width:2px
-    style B fill:#f0f0f0,color:#000000,stroke:#000000,stroke-width:2px
-    style C fill:#f0f0f0,color:#000000,stroke:#000000,stroke-width:2px
-    style D fill:#f0f0f0,color:#000000,stroke:#000000,stroke-width:2px
-    style F fill:#f0f0f0,color:#000000,stroke:#000000,stroke-width:2px
-    style G fill:#f0f0f0,color:#000000,stroke:#000000,stroke-width:2px
-    style H fill:#f0f0f0,color:#000000,stroke:#000000,stroke-width:2px
+    style B fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
+    style C fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
+    style D fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
+    style F fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
+    style G fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
+    style H fill:#ffe4b5,color:#000000,stroke:#000000,stroke-width:2px
 ```
 
 ### Процесс декодирования

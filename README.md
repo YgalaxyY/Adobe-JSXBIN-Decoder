@@ -1,6 +1,6 @@
 # Adobe JSXBIN Decoder
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![.NET](https://img.shields.io/badge/.NET-4.5-blue.svg)](https://dotnet.microsoft.com/download/dotnet-framework/net45)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![GitHub stars](https://img.shields.io/github/stars/ygalaxyy/adobe-jsxbin-decoder.svg?style=social&label=Star)](https://github.com/ygalaxyy/adobe-jsxbin-decoder)

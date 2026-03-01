@@ -72,7 +72,7 @@ graph LR
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/jsxbin-to-jsx-converter.git
+git clone https://github.com/ygalaxyy/jsxbin-to-jsx-converter.git
 cd jsxbin-to-jsx-converter
 
 # Сборка проекта
@@ -83,10 +83,6 @@ msbuild jsxbin_to_jsx.sln /p:Configuration=Release
 # 2. Выберите Configuration: Release
 # 3. Build -> Build Solution
 ```
-
-#### Готовые сборки
-
-Скачайте последнюю версию из [Releases](https://github.com/yourusername/jsxbin-to-jsx-converter/releases)
 
 ## 📖 Использование
 
@@ -298,8 +294,8 @@ StatementList
 
 ## 📞 Контакты
 
-- **GitHub Issues**: [Сообщить о проблеме](https://github.com/yourusername/jsxbin-to-jsx-converter/issues)
-- **GitHub Discussions**: [Обсуждения](https://github.com/yourusername/jsxbin-to-jsx-converter/discussions)
+- **GitHub Issues**: [Сообщить о проблеме](https://github.com/ygalaxyy/jsxbin-to-jsx-converter/issues)
+- **GitHub Discussions**: [Обсуждения](https://github.com/ygalaxyy/jsxbin-to-jsx-converter/discussions)
 
 ---
 

@@ -1,11 +1,9 @@
-# JSXBIN to JSX converter
+# Конвертер JSXBIN в JSX
 
-A C# adaptation of [autoboosh's JSXBIN-to-JSX converter](https://github.com/codecopy/jsxbin-to-jsx-converter). The converter reads encoded Adobe ExtendScript and reconstructs readable JSX. Most of the converter implementation and its tests come from the upstream project.
+Адаптация [конвертера autoboosh](https://github.com/codecopy/jsxbin-to-jsx-converter) на C#. Утилита восстанавливает читаемый JSX из сценариев Adobe ExtendScript в формате JSXBIN. Основная реализация и тесты происходят из исходного проекта.
 
-## Source and build
+- [Решение Visual Studio](jsxbin_to_jsx.sln).
+- [Код конвертера](jsxbin_to_jsx) и [тесты](jsxbin_to_jsx.Tests).
+- [Лицензия исходного проекта](LICENSE) и [инструкция для участников](CONTRIBUTING.md).
 
-- [Solution](jsxbin_to_jsx.sln) — open in Visual Studio on Windows with the relevant .NET Framework targeting pack.
-- [Converter source](jsxbin_to_jsx) and [tests](jsxbin_to_jsx.Tests).
-- [Contribution notes](CONTRIBUTING.md).
-
-The tool's output and format compatibility depend on the input. This repository includes an adaptation of the source, with upstream credit and the original [MIT license](LICENSE).
+Для сборки нужны Windows, Visual Studio и соответствующий пакет целевой версии .NET Framework. Совместимость и качество восстановления зависят от формата входного файла. [English](README.en.md).
